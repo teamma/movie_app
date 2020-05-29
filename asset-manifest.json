@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.812ce733.chunk.css",
-    "main.js": "/static/js/main.cfe1886e.chunk.js",
-    "main.js.map": "/static/js/main.cfe1886e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.556c272e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.556c272e.js.map",
-    "static/js/2.19735fbb.chunk.js": "/static/js/2.19735fbb.chunk.js",
-    "static/js/2.19735fbb.chunk.js.map": "/static/js/2.19735fbb.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.5c289e334406619330ee7ea928aeb990.js": "/precache-manifest.5c289e334406619330ee7ea928aeb990.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.812ce733.chunk.css.map": "/static/css/main.812ce733.chunk.css.map",
-    "static/js/2.19735fbb.chunk.js.LICENSE.txt": "/static/js/2.19735fbb.chunk.js.LICENSE.txt"
+    "main.css": "/movie_app/static/css/main.812ce733.chunk.css",
+    "main.js": "/movie_app/static/js/main.cfe1886e.chunk.js",
+    "main.js.map": "/movie_app/static/js/main.cfe1886e.chunk.js.map",
+    "runtime-main.js": "/movie_app/static/js/runtime-main.8469f341.js",
+    "runtime-main.js.map": "/movie_app/static/js/runtime-main.8469f341.js.map",
+    "static/js/2.19735fbb.chunk.js": "/movie_app/static/js/2.19735fbb.chunk.js",
+    "static/js/2.19735fbb.chunk.js.map": "/movie_app/static/js/2.19735fbb.chunk.js.map",
+    "index.html": "/movie_app/index.html",
+    "precache-manifest.47379901cb73d2be64d60501bd9874ac.js": "/movie_app/precache-manifest.47379901cb73d2be64d60501bd9874ac.js",
+    "service-worker.js": "/movie_app/service-worker.js",
+    "static/css/main.812ce733.chunk.css.map": "/movie_app/static/css/main.812ce733.chunk.css.map",
+    "static/js/2.19735fbb.chunk.js.LICENSE.txt": "/movie_app/static/js/2.19735fbb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.556c272e.js",
+    "static/js/runtime-main.8469f341.js",
     "static/js/2.19735fbb.chunk.js",
     "static/css/main.812ce733.chunk.css",
     "static/js/main.cfe1886e.chunk.js"
